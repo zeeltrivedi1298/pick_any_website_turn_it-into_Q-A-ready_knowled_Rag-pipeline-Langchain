@@ -1,8 +1,10 @@
 # azureAI-openai-Rag-pipeline-Langchain  
 
+🚀 Excited to share my recent **AI hands-on**: Building a Retrieval-Augmented Generation (RAG) Application with **LangChain + Azure OpenAI**!  
+
+
 🌐 Imagine being able to pick any website and instantly turn it into a **Q&A-ready knowledge base**.  
 
-🚀 Excited to share my recent **AI hands-on**: Building a Retrieval-Augmented Generation (RAG) Application with **LangChain + Azure OpenAI**!  
 
 ---
 
