@@ -1,4 +1,4 @@
-# AzureAI-openai-Rag-pipeline-Langchain  
+# Building RAG Application With Langchain  
 
 🚀 Excited to share my recent **AI hands-on**: Building a Retrieval-Augmented Generation (RAG) Application with **LangChain + Azure OpenAI**!  
 
