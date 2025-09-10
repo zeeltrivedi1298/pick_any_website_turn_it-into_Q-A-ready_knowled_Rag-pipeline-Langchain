@@ -4,7 +4,7 @@
 🚀 Excited to share my recent **AI hands-on**: Building a Retrieval-Augmented Generation (RAG) Application with **LangChain + Azure OpenAI**!  
 
 
-> **Note:** Screenshots are stored in the `results/` folder, and a few code samples are available in the `samples/` folder for your refence.
+> **Note:** Screenshots are stored in the `results` folder, and a few code samples are available in the `code samples` folder for your refence.
 
 
 
